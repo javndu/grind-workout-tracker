@@ -60,4 +60,4 @@ The interface is designed for a narrow mobile screen. If you host the HTML file 
 
 Workout logs stay in browser local storage. The app loads fonts from Google Fonts; font requests are external network requests. Browser storage is not a substitute for a durable backup.
 
-This repository contains the app source. It is not a live hosted service. Reminder behavior depends on browser permissions and whether the page is running.
+Reminder behavior depends on browser permissions and whether the page is running.
